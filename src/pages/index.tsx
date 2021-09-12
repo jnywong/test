@@ -13,10 +13,12 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
+            Welcome to DAYLDN<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <h2>Dear Asian Youth London (DAYLDN) is a UK-based chapter of the non-profit organisation Dear Asian Youth. Founded in late 2020, the Instagram page provides infographics on the British Asian experience and has since reached 15k followers.
+            
+          DAYLDN’s aim is to educate British Asian youth and communities, to uplift the British Asian identity, and ultimately to fight misrepresentation in Western media.</h2>
           <SocialList />
         </div>
       </div>
